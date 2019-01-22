@@ -1,0 +1,4 @@
+/home/tmtoon/Documents/clion-2017.3.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/tmtoon/Documents/cpp/Game of Life"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tmtoon/Documents/cpp/Game of Life/cmake-build-debug
