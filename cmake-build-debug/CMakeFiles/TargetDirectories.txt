@@ -1,3 +1,0 @@
-/home/tmtoon/Documents/cpp/Game of Life/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/tmtoon/Documents/cpp/Game of Life/cmake-build-debug/CMakeFiles/Game_of_Life.dir
-/home/tmtoon/Documents/cpp/Game of Life/cmake-build-debug/CMakeFiles/edit_cache.dir

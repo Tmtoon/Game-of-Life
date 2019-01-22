@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Werror -g  -pthread CMakeFiles/Game_of_Life.dir/main.cpp.o CMakeFiles/Game_of_Life.dir/Cell.cpp.o  -o Game_of_Life 
